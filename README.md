@@ -1,4 +1,4 @@
-# vPilot-Multiple-PushToTalk
+# vPilot-Multiple-PushToTalk (MPTT)
 vPilot plugin that allows multiple keybindings for PTT functionality.
 
 100% vibe coded. No guarantee.
