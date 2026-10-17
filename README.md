@@ -3,6 +3,8 @@ vPilot plugin that allows multiple keybindings for PTT functionality.
 
 100% vibe coded. No guarantee.
 
+Buy me a coffee: https://www.paypal.com/donate/?hosted_button_id=L9JNJAQE6P4PQ
+
 # Installation
 1. Download the ZIP files here [Releases](https://github.com/Godehardt2003/vPilot-Multiple-PushToTalk/releases/tag/v1.0)
 2. Move the folder `MultiplePTT` and `MultiplePTT.dll` into your Plugins folder, usually `C:\Users\XXX\AppData\Local\vPilot\Plugins`.
