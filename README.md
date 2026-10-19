@@ -7,7 +7,10 @@ Buy me a coffee: https://www.paypal.com/donate/?hosted_button_id=L9JNJAQE6P4PQ
 
 # Installation
 1. Download the ZIP files here [Releases](https://github.com/Godehardt2003/vPilot-Multiple-PushToTalk/releases)
-2. Move the folder `MultiplePTT` and `MultiplePTT.dll` into your Plugins folder, usually `C:\Users\XXX\AppData\Local\vPilot\Plugins`.
+2. Extract the ZIP with **WinRAR** or **7-Zip**, not with the built-in Windows extractor.
+3. Move the folder `MultiplePTT` and `MultiplePTT.dll` into your Plugins folder, usually `C:\Users\XXX\AppData\Local\vPilot\Plugins`.
+
+> **Plugin doesn't start at all?** Windows may have blocked the DLL. Right-click `MultiplePTT.dll` -> Properties -> tick **Unblock** (or "Allow") -> OK, then restart vPilot.
 
 # Configuration
 1. Start vPilot.
